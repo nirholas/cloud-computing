@@ -1401,3 +1401,7 @@ Learn about virtual hosting, a method that allows a single physical server to ho
   ]
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/cloud-computing&type=Date)](https://star-history.com/#nirholas/cloud-computing&Date)
