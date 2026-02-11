@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use cloud-computing, please cite it as below."
+type: software
+title: "cloud-computing"
+abstract: "cloud-computing"
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/cloud-computing"
+url: "https://github.com/nirholas/cloud-computing"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas

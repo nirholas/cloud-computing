@@ -1,0 +1,16 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "cloud-computing",
+    "name_for_model": "cloud_computing",
+    "description_for_human": "cloud-computing",
+    "description_for_model": "cloud-computing",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "none"
+    },
+    "logo_url": "https://github.com/nirholas.png",
+    "contact_email": "nirholas@users.noreply.github.com",
+    "legal_info_url": "https://github.com/nirholas/cloud-computing/blob/main/LICENSE"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "cloud-computing",
+    "description": "cloud-computing",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/cloud-computing",
+    "language": "Unknown",
+    "topics": [
+        "nirholas",
+        "computing",
+        "cloud",
+        "open-source"
+    ]
+}
