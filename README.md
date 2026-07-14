@@ -617,7 +617,6 @@ Learn about virtual servers, how they re-create the functionality of a physical 
 #### What is virtual hosting?
 Learn about virtual hosting, a method that allows a single physical server to host multiple websites.
 
-
 ```json
 {
   "ai_and_ml": [
