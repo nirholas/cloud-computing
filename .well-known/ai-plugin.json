@@ -1,9 +1,9 @@
 {
     "schema_version": "v1",
-    "name_for_human": "cloud-computing",
+    "name_for_human": "Tech Glossary",
     "name_for_model": "cloud_computing",
-    "description_for_human": "cloud-computing",
-    "description_for_model": "cloud-computing",
+    "description_for_human": "A plain-language glossary of cloud computing, AI/ML, data, and infrastructure terms.",
+    "description_for_model": "Glossary of 153 cloud computing, AI/ML, data analytics, database, and infrastructure terms, each with a short plain-language definition.",
     "auth": {
         "type": "none"
     },

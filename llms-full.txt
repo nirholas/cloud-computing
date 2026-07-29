@@ -1,16 +1,16 @@
 # cloud-computing
 
-> cloud-computing
+> A plain-language glossary of cloud computing, AI/ML, data, and infrastructure terms.
 
 ## Overview
 
-cloud-computing is an open-source project by nirholas. cloud-computing
+cloud-computing is a documentation repository by nirholas: a plain-language glossary of 153 cloud computing, AI/ML, data analytics, database, and infrastructure terms, grouped by topic and also published as a JSON block at the end of the README.
 
 ## Repository
 
 - URL: https://github.com/nirholas/cloud-computing
-- Language: Unknown
-- License: MIT
+- Language: Markdown
+- License: All Rights Reserved (see LICENSE)
 - Author: nirholas
 
 ## Contributing

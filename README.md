@@ -1,5 +1,11 @@
 # Tech Glossary
 
+A plain-language glossary of cloud computing, AI/ML, data, and infrastructure terms — 153 entries grouped by topic, each with a one-line explanation of what the term means and why it matters.
+
+**Contents:** [AI and ML](#ai-and-ml) · [Applications of AI](#applications-of-ai) · [App Modernization](#app-modernization) · [Cloud Basics](#cloud-basics) · [Data Analytics](#data-analytics) · [Databases](#databases) · [Infrastructure](#infrastructure)
+
+**How to use it:** browse the sections below, or use your browser's find (Ctrl/Cmd-F) to jump to a term. The end of this file also carries the same glossary as a JSON block, so it can be loaded directly by tooling.
+
 ## AI and ML
 
 ### AIOps
