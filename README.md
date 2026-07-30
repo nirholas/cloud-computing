@@ -1410,3 +1410,10 @@ Learn about virtual hosting, a method that allows a single physical server to ho
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/cloud-computing&type=Date)](https://star-history.com/#nirholas/cloud-computing&Date)
+
+## Documentation
+
+Full documentation site: **https://nirholas.github.io/cloud-computing/**
+
+- [Getting started](docs/getting-started.md) covers install and first run.
+- [Examples](docs/examples.md) has copy-paste snippets.
