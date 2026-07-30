@@ -1,10 +1,14 @@
 # cloud-computing Development Guidelines
 
-> cloud-computing
+> A plain-language glossary of cloud computing, AI/ML, data, and infrastructure terms.
 
 ## Project Overview
 
-cloud-computing is built with Unknown. See the README for full documentation.
+cloud-computing is a documentation-only repository written in Markdown. The whole
+glossary lives in `README.md`: 153 terms grouped under seven topic headings, with the
+same content mirrored as a JSON block at the end of that file. There is no build step,
+no dependency install, and no test suite. To validate a change, confirm the JSON block
+still parses and that every entry in it has a matching `###` heading above.
 
 ### Terminal Management
 

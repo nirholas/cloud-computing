@@ -1,10 +1,10 @@
 {
     "name": "cloud-computing",
-    "description": "cloud-computing",
+    "description": "A plain-language glossary of cloud computing, AI/ML, data, and infrastructure terms.",
     "version": "1.0.0",
     "publisher": "nirholas",
     "repository": "https://github.com/nirholas/cloud-computing",
-    "language": "Unknown",
+    "language": "Markdown",
     "topics": [
         "nirholas",
         "computing",

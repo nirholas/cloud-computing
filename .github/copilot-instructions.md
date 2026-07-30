@@ -1,6 +1,8 @@
 # cloud-computing
 
-> cloud-computing
+> A plain-language glossary of cloud computing, AI/ML, data, and infrastructure terms.
+> Documentation only: everything lives in `README.md`, so there is nothing to build,
+> install, or test.
 
 ### Terminal Management
 

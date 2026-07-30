@@ -2,7 +2,9 @@
 
 ## Overview
 
-cloud-computing: cloud-computing
+cloud-computing is a documentation-only repository: a plain-language glossary of cloud
+computing, AI/ML, data, and infrastructure terms. It ships no executable code and has no
+dependencies, so its attack surface is limited to the content of the Markdown files.
 
 ## Reporting a Vulnerability
 
